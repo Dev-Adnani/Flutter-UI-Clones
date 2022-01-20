@@ -8,7 +8,7 @@
 
 ## Clones List
 
-- Tiktok UI Clone
+- Instagram UI Clone
 
 ## Contributing
 
