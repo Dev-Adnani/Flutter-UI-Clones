@@ -22,6 +22,8 @@ class ExploreScreen extends StatelessWidget {
             SliverPersistentHeader(
               pinned: true,
               delegate: PersistentHeader(
+                mnExtent: 50,
+                mxExtent: 50,
                 child: CategoryBar(
                   categories: mockCategories,
                 ),
