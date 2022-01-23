@@ -33,6 +33,9 @@ class InstaUI extends StatelessWidget {
       title: 'Instagram UI',
       theme: ThemeData(
         primarySwatch: white,
+        dividerColor: Colors.transparent,
+        splashColor: Colors.transparent,
+        highlightColor: Colors.transparent,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: NavigationHandler(),
