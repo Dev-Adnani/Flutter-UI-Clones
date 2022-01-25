@@ -9,6 +9,7 @@
 ## Clones List
 
 - Instagram UI Clone
+- Tinder UI Clone
 
 ## Contributing
 
