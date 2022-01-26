@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:tinder/presentation/screens/HomeScreen/home.screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -10,13 +11,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Tinder UI',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home: Container(
-        color: Colors.amber,
-      ),
+      home: HomeScreen(),
     );
   }
 }
