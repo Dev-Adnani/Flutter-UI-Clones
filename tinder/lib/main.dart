@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tinder/presentation/screens/HomeScreen/home.screen.dart';
+import 'package:tinder/presentation/widgets/nav.bar.dart';
 
 void main() {
   runApp(const MyApp());
@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Tinder UI',
-      home: HomeScreen(),
+      home: TopNavigationBar(),
     );
   }
 }
