@@ -19,3 +19,5 @@ _Great Quality commitments are invited. Simply don't make malicious bad quality 
 
 If you have any feedback, please reach out to us at devadnani26@gmail.com
 
+## Note 
+I am not so pro at UI development , I am contributing by making UI clones & I always or sometimes refer videos 
