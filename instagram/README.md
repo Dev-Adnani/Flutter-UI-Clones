@@ -5,7 +5,7 @@ InstagramUI  App is a UI clone of a famous social media app called
 built using Flutter. Show some ❤️ and star ⭐ the repo if you liked it, 
 it makes me to share more open source flutter projects.
     
-Watch Video - [Click Here](https://youtu.be/NIi9HUukU-c)  
+Watch Video - [Click Here](https://youtu.be/Q7fwjTItuao)  
 
 ## Screenshots
 
